@@ -56,9 +56,11 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-<h1 align="center"> </h1>
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=utm355bp3rvh7nn3d1uj82ewz&cover_image=true&theme=default&bar_color_cover=true&bar_color=18f243)](https://github.com/muhterempattes/spotify-github-profile)
-<br/>  
+</div>  
+
+<br/>    
  
 
 ----
