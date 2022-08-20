@@ -56,8 +56,8 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-align="center"
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=utm355bp3rvh7nn3d1uj82ewz&cover_image=true&theme=default&bar_color_cover=true&bar_color=18f243)](https://github.com/muhterempattes/spotify-github-profile)
+
+align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=utm355bp3rvh7nn3d1uj82ewz&cover_image=true&theme=default&bar_color_cover=true&bar_color=18f243)](https://github.com/muhterempattes/spotify-github-profile)
 <br/>  
  
 
