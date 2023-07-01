@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Enes, A Student and Developer</div>  
   
-- 🌱 I’m currently learning Serbian and Phyton  
+- 🌱 I’m currently learning German, JS and Phyton  
     
 - ✉️  You can contact me at sitkienescitak@gmail.com, Discord: Enes#4814
   
